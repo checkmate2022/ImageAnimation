@@ -37,6 +37,7 @@ Face Rotator는 얼굴을 회전시킨다.
 - eyebrow_morphing_combiner.pt
 - face_morpher.pt
 - two_algo_face_rotator.pt
+![image](https://user-images.githubusercontent.com/62784314/184479903-ed4042d0-dedc-4711-a66d-178ca59914df.png)
 
 3. 가상환경 활성화 -> python test.py
 
