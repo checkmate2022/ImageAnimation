@@ -26,6 +26,8 @@ Face Rotator는 얼굴을 회전시킨다.
 - opencv-python
 
 과정
+(pytorch는 이미 설치되어 있다고 가정합니다.)
+
 1. pip install -r requirements.txt
 
 2. [talking head anime model 설치](<https://www.dropbox.com/s/tsl04y5wvg73ij4/talking-head-anime-2-model.zip?dl=0>)
